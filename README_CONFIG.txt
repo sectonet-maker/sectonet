@@ -1,0 +1,1 @@
+See README.md. Configure SMTP in environment to enable confirmation emails. Replace OG url/meta tags with your domain.

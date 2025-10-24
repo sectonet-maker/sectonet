@@ -1,2 +1,1 @@
-# sectonet
-Storing files sector by sector on the Solana blockchain
+SectoNet final package\nGenerated: 2025-10-20 22:24 UTC\nSee README_CONFIG.txt for configuration and deploy instructions.
